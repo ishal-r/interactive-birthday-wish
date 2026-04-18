@@ -103,7 +103,7 @@ Music belongs to the respective artists and is used here for personal, non-comme
 
 ## Contact
 
-**[Your Name]**
+**[Ishal Rahat]**
 - [GitHub](https://github.com/ishal-r)
 - [LinkedIn](https://www.linkedin.com/in/ishal-rahat-ba9b5830b/)
 - ishalrahat15@gmail.com
